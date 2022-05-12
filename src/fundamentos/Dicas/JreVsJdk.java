@@ -1,0 +1,26 @@
+package fundamentos.Dicas;
+
+public class JreVsJdk {
+	public static void main(String[] args) {
+		/**JRE: JAVA RUNTIME ENVEMENT (JVM), (AMBIENTE DE EXECUÇAO JAVA). USADO PELO USUARIO;
+		 * JDK: JAVA DEVELOPMENT KIT  (KIT DO DESENVOLVEDOR JAVA). USADO PELO DESENVOLVEDOR;
+		 * JVM: JAVA VIRTUAL MACHINE (MAQUINA VIRTUAL JAVA);
+		 *	//******JVM*******
+		 * .JAVA -> .CLASS -> BYTECODE;
+		 *JVM INTERPRETA O BYTECODE (ELA É UM INTERPRETE);
+		 *
+		 *O JAVA SE TORNA MAIS POPULAR PQ A JVM FEZ QUE QUE ELE PODESSE SER LIDO 
+		 *EM QUALQUER SISTEMA OPERACIONAL;
+		 *JRE É A JVM DO JAVA
+		 *JAVAC: 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 * 
+		 */
+	}
+}
