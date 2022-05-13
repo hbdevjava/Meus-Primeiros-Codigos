@@ -15,13 +15,13 @@ public class iF {
 			System.out.println("Aprovado");
 			System.out.println("Parabens");
 		}
-		boolean criterioRecuperaçaoAtingido = media <= 6.9 && media >= 4.9;
-		if (criterioRecuperaçaoAtingido) {
-			System.out.println("Recuperaçao");
+		boolean criterioRecuperacaoAtingido = media <= 6.9 && media >= 4.9;
+		if (criterioRecuperacaoAtingido) {
+			System.out.println("Recuperaï¿½ao");
 
 		}
-		boolean criterioDereprovaçao = media <= 4.9;
-		if (criterioDereprovaçao) {
+		boolean criterioDereprovacao = media <= 4.9;
+		if (criterioDereprovacao) {
 			System.out.println("Reprovado");
 		}
 
